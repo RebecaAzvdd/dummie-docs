@@ -104,5 +104,3 @@ func main() {
     }
 }
 ```
-
-## [Golang P2](../backend/golang-p2/)
