@@ -91,3 +91,18 @@ func main() {
     fmt.Println("Arquivo aberto com sucesso")
 }
 ```
+
+### Pacotes
+- Iniciando com letra maiuscula = public, minusculo = privado
+- Ponto - gerara algo publico
+- ponto ou _Ponto sera privado
+
+```go
+func catestos(){
+    // privada
+}
+
+funct Distancia() {
+    //publica
+}
+```
