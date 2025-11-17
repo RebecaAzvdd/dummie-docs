@@ -6,3 +6,4 @@
 ## [Golang Struct](../golang/golang-struct/)
 ## [Golang API](../golang/golang-repo-api/)
 ## [Golang Concorrencias](../golang/golang-concorrencias/) 
+## [Golang Test](../golang/golang-tests/)
